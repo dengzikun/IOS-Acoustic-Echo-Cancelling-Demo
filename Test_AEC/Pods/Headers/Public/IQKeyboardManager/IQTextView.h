@@ -1,0 +1,5 @@
+XSym
+0068
+7ed6d796bf04de9c90c2ed290ac45b74
+../../../IQKeyboardManager/IQKeyboardManager/IQTextView/IQTextView.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

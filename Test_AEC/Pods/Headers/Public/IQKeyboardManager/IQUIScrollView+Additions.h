@@ -1,0 +1,5 @@
+XSym
+0082
+e8b78fd394a9990bb058a3fe0ce42066
+../../../IQKeyboardManager/IQKeyboardManager/Categories/IQUIScrollView+Additions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             

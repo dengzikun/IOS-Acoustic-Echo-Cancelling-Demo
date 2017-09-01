@@ -1,0 +1,5 @@
+XSym
+0085
+d25a2371f6a9133c1f4c67883e42e52e
+../../../IQKeyboardManager/IQKeyboardManager/Categories/IQUITextFieldView+Additions.h
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
